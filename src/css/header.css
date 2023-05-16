@@ -9,6 +9,10 @@
   gap: 40px;
 }
 
+.nav-item {
+  outline: red;
+}
+
 .nav-link {
   font-weight: 500;
   letter-spacing: 0.02em;
